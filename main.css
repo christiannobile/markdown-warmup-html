@@ -1,20 +1,15 @@
 body {
-    background-color: linen;
+    background-color: #3AFFC4;
 }
 
-h1 {
-    color: maroon;
-    font-family: sans-serif;
-}
-
-h1 {
-    color: maroon;
-    font-family: sans-serif;
+h1, h2 {
+    color: #1500FF;
+    font-family: "Arial",sans-serif;
 }
 
 p {
-    color: maroon;
-    font-family: sans-serif;
+    color: #106AFF;
+    font-family: "Arial",sans-serif;
 }
 </style>
 </head>
