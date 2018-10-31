@@ -1,10 +1,10 @@
-body {
-    background-color: #3AFFC4;
-}
-
 h1, h2 {
     color: #1500FF;
     font-family: "Arial",sans-serif;
+}
+
+body {
+    background-color: #3AFFC4;
 }
 
 p {
